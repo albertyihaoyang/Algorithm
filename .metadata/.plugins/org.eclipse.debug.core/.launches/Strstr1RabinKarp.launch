@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Determine If One String Is Another's Substring (Class 07)/src/com/yyh/Strstr1RabinKarp.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.yyh.Strstr1RabinKarp"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Determine If One String Is Another's Substring (Class 07)"/>
+</launchConfiguration>

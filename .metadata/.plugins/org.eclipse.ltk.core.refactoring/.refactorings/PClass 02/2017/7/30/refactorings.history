@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;laioffer&apos; to &apos;com.yyh&apos;&#x0A;- Original project: &apos;PClass 02&apos;&#x0A;- Original element: &apos;PClass 02/src/laioffer&apos;&#x0A;- Renamed element: &apos;PClass 02/src/com.yyh&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;laioffer&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;laioffer" name="com.yyh" qualified="false" references="true" stamp="1501175732558" textual="true" version="1.0"/>
+</session>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Search In Sorted Matrix I (Class 02)/src/com/yyh/Search.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.yyh.Search"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Search In Sorted Matrix I (Class 02)"/>
+</launchConfiguration>

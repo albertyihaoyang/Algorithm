@@ -1,0 +1,44 @@
+package com.yyh;
+
+class ListNode {
+	int val;
+	ListNode next;
+	ListNode(int x) { val = x; }
+}
+
+public class MergeKLists {
+
+	public static void main(String[] args) {
+		MergeKLists my = new MergeKLists();
+		ListNode L1 = new ListNode(1);
+		ListNode[] l1 = new ListNode[]{L1};
+		System.out.println(my.mergeKLists(l1).val);
+	}
+
+	public ListNode mergeKLists(ListNode[] lists) {
+        ListNode dummy = new ListNode(0);
+        ListNode cur = dummy;
+        boolean flag = true;
+		while (flag){
+			flag = false;
+			ListNode curMin = null;
+			for (ListNode l : lists){
+				if (l == null){
+					continue;
+				}
+				flag = true;
+				if (curMin == null){
+					curMin = l;
+				} else if (curMin.val < l.val){
+					curMin = l;
+				}
+			}
+			if (curMin != null){
+				cur.next = curMin;
+				curMin = curMin.next;
+				cur = cur.next;
+			}
+        }
+		return dummy.next;
+    }
+}

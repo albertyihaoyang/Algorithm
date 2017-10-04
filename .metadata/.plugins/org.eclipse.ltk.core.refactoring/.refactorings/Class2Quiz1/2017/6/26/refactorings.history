@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Square.java&apos; to &apos;C2Q/src/laioffer&apos;&#x0A;- Original project: &apos;Class2Quiz1&apos;&#x0A;- Destination element: &apos;C2Q/src/laioffer&apos;&#x0A;- Original element: &apos;laioffer.Square.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=C2Q/src&lt;laioffer" element1="/src&lt;laioffer{Square.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1498677572572" units="1" version="1.0"/>
+</session>

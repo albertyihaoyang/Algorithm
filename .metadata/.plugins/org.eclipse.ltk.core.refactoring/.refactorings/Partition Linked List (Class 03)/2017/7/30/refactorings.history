@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.yyh.PartitionLinkedListSolution&apos; to &apos;Partition&apos;&#x0A;- Original project: &apos;Partition Linked List (Class 03)&apos;&#x0A;- Original element: &apos;com.yyh.PartitionLinkedListSolution&apos;&#x0A;- Renamed element: &apos;com.yyh.Partition&apos;&#x0A;- Update references to refactored element&#x0A;- Rename similarly named elements&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;PartitionLinkedListSolution&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.yyh{PartitionLinkedListSolution.java[PartitionLinkedListSolution" matchStrategy="1" name="Partition" qualified="false" references="true" similarDeclarations="true" stamp="1501012128809" textual="true" version="1.0"/>
+</session>

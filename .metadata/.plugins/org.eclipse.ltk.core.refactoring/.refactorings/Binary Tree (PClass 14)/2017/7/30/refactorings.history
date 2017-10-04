@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;TreeNode.java&apos; to &apos;Binary Tree (PClass 13)/src/com.yyh&apos;&#x0A;- Original project: &apos;Binary Tree (PClass 14)&apos;&#x0A;- Destination element: &apos;Binary Tree (PClass 13)/src/com.yyh&apos;&#x0A;- Original element: &apos;com.yyh.TreeNode.java&apos;" description="Copy compilation unit" destination="=Binary Tree \(PClass 13)/src&lt;com.yyh" element1="/src&lt;com.yyh{TreeNode.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1500938889953" units="1" version="1.0"/>
+</session>

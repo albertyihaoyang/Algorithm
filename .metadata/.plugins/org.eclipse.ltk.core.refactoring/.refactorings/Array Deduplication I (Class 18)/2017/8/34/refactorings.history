@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.yyh.dedup&apos; to &apos;Dedup&apos;&#x0A;- Original project: &apos;Array Deduplication I (Class 18)&apos;&#x0A;- Original element: &apos;com.yyh.dedup&apos;&#x0A;- Renamed element: &apos;com.yyh.Dedup&apos;&#x0A;- Update references to refactored element&#x0A;- Rename similarly named elements&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;dedup&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.yyh{dedup.java[dedup" matchStrategy="1" name="Dedup" qualified="false" references="true" similarDeclarations="true" stamp="1503459881188" textual="true" version="1.0"/>
+</session>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Right Shift By N Characters (Class 08)/src/com/yyh/RightShift.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.yyh.RightShift"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Right Shift By N Characters (Class 08)"/>
+</launchConfiguration>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Solution.java&apos; to &apos;Queue By Two Stacks (Class 03)/src/com.yyh&apos;&#x0A;- Original project: &apos;Queue By Two Stacks (Class 03)&apos;&#x0A;- Destination element: &apos;Queue By Two Stacks (Class 03)/src/com.yyh&apos;&#x0A;- Original element: &apos;Solution.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;com.yyh" element1="/src&lt;{Solution.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1501010587599" units="1" version="1.0"/>
+</session>

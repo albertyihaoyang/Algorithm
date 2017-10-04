@@ -1,0 +1,8 @@
+package com.yyh;
+// Determine if there exists a set of four elements in a given array that sum to the given target number.
+public class FourSum {
+	public boolean exist(int[] array, int target) {
+		// Write your solution here.
+		return false;
+	}
+}

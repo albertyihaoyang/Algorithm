@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.yyh.InsertInSortedLinkedListSolution&apos; to &apos;Insert&apos;&#x0A;- Original project: &apos;Insert In Sorted Linked List (Class 03)&apos;&#x0A;- Original element: &apos;com.yyh.InsertInSortedLinkedListSolution&apos;&#x0A;- Renamed element: &apos;com.yyh.Insert&apos;&#x0A;- Update references to refactored element&#x0A;- Rename similarly named elements&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;InsertInSortedLinkedListSolution&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.yyh{InsertInSortedLinkedListSolution.java[InsertInSortedLinkedListSolution" matchStrategy="1" name="Insert" qualified="false" references="true" similarDeclarations="true" stamp="1501011397121" textual="true" version="1.0"/>
+</session>

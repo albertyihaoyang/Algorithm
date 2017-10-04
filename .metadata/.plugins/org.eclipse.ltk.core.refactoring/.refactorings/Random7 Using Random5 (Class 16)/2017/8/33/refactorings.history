@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;RandomFive.java&apos; to &apos;Random1000 Using Random5 (Class 16)/src/com.yyh&apos;&#x0A;- Original project: &apos;Random7 Using Random5 (Class 16)&apos;&#x0A;- Destination element: &apos;Random1000 Using Random5 (Class 16)/src/com.yyh&apos;&#x0A;- Original element: &apos;com.yyh.RandomFive.java&apos;" description="Copy compilation unit" destination="=Random1000 Using Random5 \(Class 16)/src&lt;com.yyh" element1="/src&lt;com.yyh{RandomFive.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1502926026324" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="java.util.Dictionary"/>
+<fullyQualifiedTypeName name="com.yyh.InorderTraversalOfBinaryTreeSolution"/>
+<fullyQualifiedTypeName name="com.yyh.TreeNode"/>
+<fullyQualifiedTypeName name="java.util.Queue"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.Map.Entry"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="com.yyh.BruteForce"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="com.yyh.Hex"/>
+<fullyQualifiedTypeName name="java.util.Deque"/>
+<fullyQualifiedTypeName name="com.yyh.FindKSmallestSum"/>
+<fullyQualifiedTypeName name="com.yyh.CombinationSum3"/>
+<fullyQualifiedTypeName name="java.util.regex.Matcher"/>
+<fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="com.yyh.User.UserBuilder"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="javax.xml.soap.Node"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+<fullyQualifiedTypeName name="java.security.KeyStore.Entry"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.PriorityQueue"/>
+<fullyQualifiedTypeName name="java.util.Comparator"/>
+</qualifiedTypeNameHistroy>

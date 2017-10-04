@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ListNode.java&apos; to &apos;237. Delete Node in a Linked List/src/com.yyh&apos;&#x0A;- Original project: &apos;203. Remove Linked List Elements&apos;&#x0A;- Destination element: &apos;237. Delete Node in a Linked List/src/com.yyh&apos;&#x0A;- Original element: &apos;com.yyh.ListNode.java&apos;" description="Copy compilation unit" destination="=237. Delete Node in a Linked List/src&lt;com.yyh" element1="/src&lt;com.yyh{ListNode.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1500419528387" units="1" version="1.0"/>
+</session>

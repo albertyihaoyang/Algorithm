@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.yyh.V1_2D&apos; to &apos;Search&apos;&#x0A;- Original project: &apos;Search In Sorted Matrix I (Class 02)&apos;&#x0A;- Original element: &apos;com.yyh.V1_2D&apos;&#x0A;- Renamed element: &apos;com.yyh.Search&apos;&#x0A;- Update references to refactored element&#x0A;- Rename similarly named elements&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;V1_2D&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.yyh{V1_2D.java[V1_2D" matchStrategy="1" name="Search" qualified="false" references="true" similarDeclarations="true" stamp="1501010438546" textual="true" version="1.0"/>
+</session>

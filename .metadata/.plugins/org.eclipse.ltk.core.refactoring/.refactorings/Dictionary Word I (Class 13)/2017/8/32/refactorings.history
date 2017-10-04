@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;EditDistance.java&apos; to &apos;Edit Distance (Class 13)/src/com.yyh&apos;&#x0A;- Original project: &apos;Dictionary Word I (Class 13)&apos;&#x0A;- Destination element: &apos;Edit Distance (Class 13)/src/com.yyh&apos;&#x0A;- Original element: &apos;com.yyh.EditDistance.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=Edit Distance \(Class 13)/src&lt;com.yyh" element1="/src&lt;com.yyh{EditDistance.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1502472553222" units="1" version="1.0"/>
+</session>

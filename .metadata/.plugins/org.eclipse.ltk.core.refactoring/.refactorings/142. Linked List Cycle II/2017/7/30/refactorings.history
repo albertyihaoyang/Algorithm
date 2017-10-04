@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.yyh.HasCycle&apos; to &apos;DetectCycle&apos;&#x0A;- Original project: &apos;142. Linked List Cycle II&apos;&#x0A;- Original element: &apos;com.yyh.HasCycle&apos;&#x0A;- Renamed element: &apos;com.yyh.DetectCycle&apos;&#x0A;- Update references to refactored element&#x0A;- Rename similarly named elements&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;HasCycle&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.yyh{HasCycle.java[HasCycle" matchStrategy="1" name="DetectCycle" qualified="false" references="true" similarDeclarations="true" stamp="1501052097386" textual="true" version="1.0"/>
+</session>

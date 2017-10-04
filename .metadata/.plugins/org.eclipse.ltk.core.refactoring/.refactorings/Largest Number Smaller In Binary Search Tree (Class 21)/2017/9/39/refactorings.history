@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;yyh&apos; to &apos;com.yyh&apos;&#x0A;- Original project: &apos;Largest Number Smaller In Binary Search Tree (Class 21)&apos;&#x0A;- Original element: &apos;Largest Number Smaller In Binary Search Tree (Class 21)/src/yyh&apos;&#x0A;- Renamed element: &apos;Largest Number Smaller In Binary Search Tree (Class 21)/src/com.yyh&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;yyh&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;yyh" name="com.yyh" qualified="false" references="true" stamp="1506554046122" textual="true" version="1.0"/>
+</session>

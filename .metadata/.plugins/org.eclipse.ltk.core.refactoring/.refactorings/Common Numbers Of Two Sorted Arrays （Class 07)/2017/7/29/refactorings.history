@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.yyh.Common&apos; to &apos;Common1Pointer&apos;&#x0A;- Original project: &apos;Common Numbers Of Two Sorted Arrays （Class 07)&apos;&#x0A;- Original element: &apos;com.yyh.Common&apos;&#x0A;- Renamed element: &apos;com.yyh.Common1Pointer&apos;&#x0A;- Update references to refactored element&#x0A;- Rename similarly named elements&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Common&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.yyh{Common.java[Common" matchStrategy="1" name="Common1Pointer" qualified="false" references="true" similarDeclarations="true" stamp="1500531316343" textual="true" version="1.0"/>
+</session>

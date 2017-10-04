@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;CountPrime.java&apos; to &apos;com.yyh.CountPrime.java&apos;&#x0A;- Original project: &apos;204. Count Primes&apos;&#x0A;- Destination element: &apos;com.yyh.CountPrime.java&apos;&#x0A;- Original element: &apos;com.yyh.CountPrime.java&apos;" description="Copy compilation unit" destination="/src&lt;com.yyh{CountPrime.java" element1="/src&lt;com.yyh{CountPrime.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1501523281567" units="1" version="1.0"/>
+</session>

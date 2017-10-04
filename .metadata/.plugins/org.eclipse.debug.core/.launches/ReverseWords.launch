@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Reverse Words In A Sentence I (Class 08)/src/com/yyh/ReverseWords.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.yyh.ReverseWords"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Reverse Words In A Sentence I (Class 08)"/>
+</launchConfiguration>

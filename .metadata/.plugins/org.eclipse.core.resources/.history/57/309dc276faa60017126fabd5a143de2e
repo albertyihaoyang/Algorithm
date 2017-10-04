@@ -1,0 +1,18 @@
+package com.yyh;
+// Given the levelorder and inorder traversal sequence of a binary tree, reconstruct the original tree.
+
+class TreeNode {
+	public int key;
+	public TreeNode left;
+	public TreeNode right;
+	public TreeNode(int key) {
+		this.key = key;
+	}
+}
+
+public class Reconstruct {
+	public TreeNode reconstruct(int[] in, int[] level) {
+		// Write your solution here.
+		return null;
+	}
+}

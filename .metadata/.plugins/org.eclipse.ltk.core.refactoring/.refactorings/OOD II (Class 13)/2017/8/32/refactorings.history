@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.yyh.ParkingSpot&apos; to &apos;ParkingLot&apos;&#x0A;- Original project: &apos;OOD II (Class 13)&apos;&#x0A;- Original element: &apos;com.yyh.ParkingSpot&apos;&#x0A;- Renamed element: &apos;com.yyh.ParkingLot&apos;&#x0A;- Update references to refactored element&#x0A;- Rename similarly named elements&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ParkingSpot&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.yyh{ParkingSpot.java[ParkingSpot" matchStrategy="1" name="ParkingLot" qualified="false" references="true" similarDeclarations="true" stamp="1502000200628" textual="true" version="1.0"/>
+</session>

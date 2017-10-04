@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;IsIsomorphic.java&apos; to &apos;290. Word Pattern/src/com.yyh&apos;&#x0A;- Original project: &apos;205. Isomorphic Strings&apos;&#x0A;- Destination element: &apos;290. Word Pattern/src/com.yyh&apos;&#x0A;- Original element: &apos;com.yyh.IsIsomorphic.java&apos;" description="Copy compilation unit" destination="=290. Word Pattern/src&lt;com.yyh" element1="/src&lt;com.yyh{IsIsomorphic.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1501451846205" units="1" version="1.0"/>
+</session>

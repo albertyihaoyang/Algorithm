@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.yyh.IsIsomorphic&apos; to &apos;WordPattern&apos;&#x0A;- Original project: &apos;290. Word Pattern&apos;&#x0A;- Original element: &apos;com.yyh.IsIsomorphic&apos;&#x0A;- Renamed element: &apos;com.yyh.WordPattern&apos;&#x0A;- Update references to refactored element&#x0A;- Rename similarly named elements&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;IsIsomorphic&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.yyh{IsIsomorphic.java[IsIsomorphic" matchStrategy="1" name="WordPattern" qualified="false" references="true" similarDeclarations="true" stamp="1501451902903" textual="true" version="1.0"/>
+</session>
