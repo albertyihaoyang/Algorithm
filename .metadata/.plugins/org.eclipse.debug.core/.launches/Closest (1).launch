@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Kth Closest Point To &lt;0,0,0&gt; (Class 25)/src/com/yyh/Closest.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.yyh.Closest"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Kth Closest Point To &lt;0,0,0&gt; (Class 25)"/>
+</launchConfiguration>

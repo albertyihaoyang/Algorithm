@@ -1,0 +1,31 @@
+package com.yyh;
+// Find the longest common substring of two given strings.
+public class LongestCommon {
+	public static void main(String[] args){
+		String s = "abcde";
+		String t = "cdf";
+		System.out.println(longestCommon(s, t));
+	}
+	public static String longestCommon(String s, String t) {
+		if (s.length() == 0 || t.length() == 0){
+			return "";
+		}
+		int sLen = s.length();
+		int tLen = t.length();
+		int[][] dp = new int[sLen + 1][tLen + 1];
+		int max = 0;
+		int right = 0;
+		for (int i = 0; i <= sLen; i++){
+			for (int j = 1; j <= tLen; j++){
+				if (s.charAt(i - 1) == t.charAt(j - 1)){
+					dp[i][j] = dp[i - 1][j - 1] + 1;
+					if (dp[i][j] > max){
+						max = dp[i][j];
+						right = i;
+					}
+				}
+			}
+		}
+		return s.substring(right - max, max + 1);
+	}
+}
