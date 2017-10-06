@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.yyh.LRUCache.java&apos; to &apos;Solution.java&apos;&#x0A;- Original project: &apos;Implement LRU Cache (Class 26)&apos;&#x0A;- Original element: &apos;com.yyh.LRUCache.java&apos;&#x0A;- Renamed element: &apos;com.yyh.Solution.java&apos;" description="Rename compilation unit &apos;LRUCache.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.yyh{LRUCache.java" name="Solution.java" references="false" stamp="1507266475418" version="1.0"/>
+</session>

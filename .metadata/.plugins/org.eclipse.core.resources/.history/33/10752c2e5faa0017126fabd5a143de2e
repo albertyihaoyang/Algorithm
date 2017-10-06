@@ -1,0 +1,18 @@
+package com.yyh;
+// Given an array of 2D coordinates of points (all the coordinates are integers), 
+// find the largest number of points that can form a set such that any pair of points in the set can 
+// form a line with positive slope. Return the size of such a maximal set.
+class Point {
+	public int x;
+	public int y;
+	public Point(int x, int y) {
+		this.x = x;
+		this.y = y;
+	}
+}
+public class LargestSetPointsPositiveSlope {
+	public int largest(Point[] points) {
+		// Write your solution here.
+		return 0;
+	}
+}
