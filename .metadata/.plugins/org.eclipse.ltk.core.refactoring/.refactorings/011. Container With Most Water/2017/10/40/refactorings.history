@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.yyh.Largest&apos; to &apos;MaxArea&apos;&#x0A;- Original project: &apos;011. Container With Most Water&apos;&#x0A;- Original element: &apos;com.yyh.Largest&apos;&#x0A;- Renamed element: &apos;com.yyh.MaxArea&apos;&#x0A;- Update references to refactored element&#x0A;- Rename similarly named elements&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Largest&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.yyh{Largest.java[Largest" matchStrategy="1" name="MaxArea" qualified="false" references="true" similarDeclarations="true" stamp="1507321792608" textual="true" version="1.0"/>
+</session>

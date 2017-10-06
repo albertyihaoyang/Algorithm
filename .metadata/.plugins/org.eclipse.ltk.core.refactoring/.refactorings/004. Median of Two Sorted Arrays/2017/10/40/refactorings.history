@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;FindMedianSortedArrays.java&apos; to &apos;Median Of Two Sorted Arrays (Class 27)/src/com.yyh&apos;&#x0A;- Original project: &apos;004. Median of Two Sorted Arrays&apos;&#x0A;- Destination element: &apos;Median Of Two Sorted Arrays (Class 27)/src/com.yyh&apos;&#x0A;- Original element: &apos;com.yyh.FindMedianSortedArrays.java&apos;" description="Copy compilation unit" destination="=Median Of Two Sorted Arrays \(Class 27)/src&lt;com.yyh" element1="/src&lt;com.yyh{FindMedianSortedArrays.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1507317665668" units="1" version="1.0"/>
+</session>

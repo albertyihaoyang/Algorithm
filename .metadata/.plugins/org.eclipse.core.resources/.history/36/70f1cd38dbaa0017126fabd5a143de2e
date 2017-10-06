@@ -1,0 +1,43 @@
+package com.yyh;
+
+import java.util.Comparator;
+import java.util.PriorityQueue;
+
+// Given an m x n matrix of positive integers representing the height of each unit cell in a 2D elevation map, 
+// compute the volume of water it is able to trap after raining.
+public class Trap {
+	static class Node implements Comparator<Node>{
+		int x;
+		int y;
+		int height;
+		public Node(int x, int y, int height){
+			this.x = x;
+			this.y = y;
+			this.height = height;
+		}
+		
+		@Override
+		public int compareTo(Node another){
+			if (this.height == another.height){
+				return 0;
+			} 
+			return this.height < another.height ? -1 : 1;
+		}
+	}
+	
+	public int trapRainWater(int[][] heightMap) {
+		if (heightMap == null){
+			return 0;
+		}
+		int rows = heightMap.length;
+		int cols = heightMap[0].length;
+		if (rows < 3 || cols < 3){
+			return 0;
+		}
+		PriorityQueue<Node> minHeap = new PriorityQueue<>(new MyComparator());
+		boolean[][] visited = new boolean[rows][cols];
+		border(heightMap, minHeap, visited);
+	}
+	
+	private border
+}

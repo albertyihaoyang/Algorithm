@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Largest.java&apos; to &apos;011. Container With Most Water/src/com.yyh&apos;&#x0A;- Original project: &apos;Largest Rectangle In Histogram (Class 25)&apos;&#x0A;- Destination element: &apos;011. Container With Most Water/src/com.yyh&apos;&#x0A;- Original element: &apos;com.yyh.Largest.java&apos;" description="Copy compilation unit" destination="=011. Container With Most Water/src&lt;com.yyh" element1="/src&lt;com.yyh{Largest.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1507321754670" units="1" version="1.0"/>
+</session>
