@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.yyh.RemoveNthFromEnd.java&apos; to &apos;Solution.java&apos;&#x0A;- Original project: &apos;019. Remove Nth Node From End of List&apos;&#x0A;- Original element: &apos;com.yyh.RemoveNthFromEnd.java&apos;&#x0A;- Renamed element: &apos;com.yyh.Solution.java&apos;" description="Rename compilation unit &apos;RemoveNthFromEnd.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.yyh{RemoveNthFromEnd.java" name="Solution.java" references="false" stamp="1507340981238" version="1.0"/>
+</session>
