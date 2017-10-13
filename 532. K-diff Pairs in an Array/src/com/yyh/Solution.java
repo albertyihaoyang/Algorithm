@@ -13,7 +13,7 @@ public class Solution {
 	}
 
 	public int findPairs(int[] nums, int k) {
-		if (nums == null || nums.length < 2){
+		if (nums == null || nums.length < 2 || k < 0){
 			return 0;
 		}
 		int res = 0;

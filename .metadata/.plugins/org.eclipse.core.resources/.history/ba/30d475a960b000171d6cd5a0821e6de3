@@ -1,0 +1,47 @@
+package com.yyh;
+
+import java.util.ArrayList;
+import java.util.List;
+
+// Given a collection of distinct numbers, return all possible permutations.
+public class Solution {
+	public static void main(String[] args){
+		Solution my = new Solution();
+		int[] nums = new int[]{1, 1, 2};
+		System.out.println(my.permute(nums).toString());
+	}
+	
+	public List<List<Integer>> permute(int[] nums) {
+		List<List<Integer>> res = new ArrayList<>();
+		if (nums == null){
+			return res;
+		}
+		List<Integer> cur = new ArrayList<>();
+		if (nums.length == 0){
+			res.add(cur);
+			return res;
+		}
+		permuteUnique(nums, res, cur, 0);
+		return res;
+	}
+	
+	private void permuteUnique(int[] nums, List<List<Integer>> res, List<Integer> cur, int index){
+		if (index == nums.length){
+			res.add(new ArrayList<>(cur));
+			return;
+		}
+		for (int i = index; i < nums.length; i++){
+			swap(nums, index, i);
+			cur.add(nums[index]);
+			permuteUnique(nums, res, cur, index + 1);
+			swap(nums, index, i);
+			cur.remove(cur.size() - 1);
+		}
+	}
+	
+	private void swap(int[] nums, int a, int b){
+		int tmp = nums[a];
+		nums[a] = nums[b];
+		nums[b] = tmp;
+	}
+}
