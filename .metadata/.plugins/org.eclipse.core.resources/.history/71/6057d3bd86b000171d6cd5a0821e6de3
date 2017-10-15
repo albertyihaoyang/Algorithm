@@ -1,0 +1,24 @@
+package com.yyh;
+
+import java.util.List;
+
+/*
+ * Given m arrays, and each array is sorted in ascending order. 
+ * Now you can pick up two integers from two different arrays (each array picks one) and calculate the distance. 
+ * We define the distance between two integers a and b to be their absolute difference |a-b|. Your task is to find the maximum distance.
+ */
+public class Solution {
+	public int maxDistance(List<List<Integer>> arrays) {
+		int res = 0;
+		for (int i = 0; i < arrays.size(); i++){
+			for (int j = 0; j < arrays.size(); j++){
+				if (i == j){
+					continue;
+				}
+				List<Integer> cur = arrays.get(j);
+				res = Math.max(res, cur.get(cur.size() - 1) - arrays.get(i).get(0));
+			}
+		}
+		return res;
+	}
+}

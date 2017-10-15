@@ -1,0 +1,36 @@
+package com.yyh;
+
+public class Solution {
+	public static void main(String[] args){
+		Solution my = new Solution();
+		System.out.println(my.divide(Integer.MIN_VALUE, 1));
+	}
+	
+	public int divide(int dividend, int divisor) {
+        if (divisor == 0 || (dividend == Integer.MIN_VALUE && divisor == -1)){
+        	return Integer.MAX_VALUE;
+        }
+        boolean pos = (dividend < 0 && divisor > 0 || dividend > 0 && divisor < 0) ? false : true;
+        dividend = (dividend < 0) ? dividend : -dividend;
+        divisor = (divisor < 0) ? divisor : -divisor;
+        if (divisor == -1){
+        	return (pos) ? -dividend : dividend;
+        } else {
+        	int res = helper(dividend, divisor);
+        	return (pos) ? res: -res;
+        }
+    }
+	
+	private int helper(int dividend, int divisor){
+		if (dividend > divisor){
+			return 0;
+		}
+		int cur = divisor;
+		int res = 1;
+		while (dividend <= cur + cur){
+			cur += cur;
+			res += res;
+		}
+		return res + helper(dividend - cur, divisor);
+	}
+}

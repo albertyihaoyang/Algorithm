@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.yyh.MajorityElement&apos; to &apos;Solution&apos;&#x0A;- Original project: &apos;169. Majority Element&apos;&#x0A;- Original element: &apos;com.yyh.MajorityElement&apos;&#x0A;- Renamed element: &apos;com.yyh.Solution&apos;&#x0A;- Update references to refactored element&#x0A;- Rename similarly named elements&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MajorityElement&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.yyh{MajorityElement.java[MajorityElement" matchStrategy="1" name="Solution" qualified="false" references="true" similarDeclarations="true" stamp="1507949449688" textual="true" version="1.0"/>
+</session>

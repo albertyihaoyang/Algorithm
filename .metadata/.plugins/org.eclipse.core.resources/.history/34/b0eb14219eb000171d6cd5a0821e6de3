@@ -1,0 +1,38 @@
+package com.yyh;
+
+public class Solution {
+	public static void main(String[] args){
+		Solution my = new Solution();
+		System.out.println(my.divide(Integer.MIN_VALUE, 2));
+	}
+	
+	public int divide(int dividend, int divisor) {
+        if (divisor == 0 || (dividend == Integer.MIN_VALUE && divisor == -1)){
+        	return Integer.MAX_VALUE;
+        }
+        boolean pos = (dividend < 0 && divisor > 0 || dividend > 0 && divisor < 0) ? false : true;
+        long ldividend = (long)((dividend < 0) ? dividend : -dividend);
+        long ldivisor = (long)((divisor < 0) ? divisor : -divisor);
+        if (divisor == -1){
+        	return (pos) ? -dividend : dividend;
+        } else {
+        	int res = (int)helper(ldividend, ldivisor);
+        	return (pos) ? res: -res;
+        }
+    }
+	
+	private long helper(long dividend, long divisor){
+		if (dividend > divisor){
+			return 0;
+		}
+		long cur = divisor;
+		int res = 1;
+		System.out.println(dividend + " " + cur + " " + divisor);
+		while (dividend <= cur + cur){
+			cur += cur;
+			res += res;
+			System.out.println(dividend + " " + cur + " " + divisor);
+		}
+		return res + helper(dividend - cur, divisor);
+	}
+}
