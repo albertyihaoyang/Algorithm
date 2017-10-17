@@ -1,10 +1,9 @@
 package com.yyh;
 // Given an input string, reverse the string word by word.
 public class ReverseWords {
-
 	public static void main(String[] args) {
 		ReverseWords my = new ReverseWords();
-		System.out.println(my.reverseWords("the sky is blue"));
+		System.out.println(my.reverseWords("1 "));
 	}
 
 	public String reverseWords(String s) {
@@ -21,9 +20,18 @@ public class ReverseWords {
         	}
         	fast++;
         }
+        while (fast > 0 && arr[fast - 1] == ' '){
+        	fast--;
+        }
         reverse(arr, slow, fast - 1);
         reverse(arr, 0, fast - 1);
-        return new String(arr);
+        while (fast > 0 && arr[fast - 1] == ' '){
+        	fast--;
+        }
+        if (fast == 0){
+        	return "";
+        }
+        return new String(arr, 0, fast);
     }
 	
 	private void reverse(char[] arr, int a, int b){
