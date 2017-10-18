@@ -1,0 +1,5 @@
+package com.yyh;
+// Given a singly linked list, determine if it is a palindrome.
+public class Solution {
+
+}
