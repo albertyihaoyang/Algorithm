@@ -8,9 +8,14 @@ package com.yyh;
  */
 public class RepeatedStringMatch {
 	public int repeatedStringMatch(String A, String B) {
-		if (A.length() == 0 || B.length() == 0){
-			return -1;
+		int count = 0;
+		StringBuilder sb = new StringBuilder();
+		while (sb.length() < B.length()) {
+			sb.append(A);
+			count++;
 		}
-		return 0;
+		if(sb.toString().contains(B)) return count;
+		if(sb.append(A).toString().contains(B)) return ++count;
+		return -1;
 	}
 }
