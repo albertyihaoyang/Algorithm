@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.yyh.Solution&apos; to &apos;SolutionI&apos;&#x0A;- Original project: &apos;032. Longest Valid Parentheses&apos;&#x0A;- Original element: &apos;com.yyh.Solution&apos;&#x0A;- Renamed element: &apos;com.yyh.SolutionI&apos;&#x0A;- Update references to refactored element&#x0A;- Rename similarly named elements&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Solution&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.yyh{Solution.java[Solution" matchStrategy="1" name="SolutionI" qualified="false" references="true" similarDeclarations="true" stamp="1510704683920" textual="true" version="1.0"/>
+</session>
