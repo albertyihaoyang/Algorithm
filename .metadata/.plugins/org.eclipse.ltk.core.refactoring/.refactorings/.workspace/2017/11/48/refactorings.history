@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Self-Regulation and Assessment&apos;" deleteContents="true" description="Delete resource &apos;Self-Regulation and Assessment&apos;" element1="/Self-Regulation and Assessment" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1511834475503"/>
+</session>

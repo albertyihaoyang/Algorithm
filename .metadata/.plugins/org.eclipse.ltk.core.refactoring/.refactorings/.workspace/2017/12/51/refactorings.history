@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;q.offer(list.size());&#x0A;            map.put(val, q);&#x0A;            list.add(val);&apos;" deleteContents="true" description="Delete resource &apos;q.offer(list.size());&#x0A;            map.put(val, q);&#x0A;            list.add(val);&apos;" element1="/q.offer(list.size());&#x0A;            map.put(val, q);&#x0A;            list.add(val);" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1513652166726"/>
+</session>

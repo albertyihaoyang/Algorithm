@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.yyh.Solution&apos; to &apos;ValidWordAbbr&apos;&#x0A;- Original project: &apos;288. Unique Word Abbreviation&apos;&#x0A;- Original element: &apos;com.yyh.Solution&apos;&#x0A;- Renamed element: &apos;com.yyh.ValidWordAbbr&apos;&#x0A;- Update references to refactored element&#x0A;- Rename similarly named elements&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Solution&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.yyh{Solution.java[Solution" matchStrategy="1" name="ValidWordAbbr" qualified="false" references="true" similarDeclarations="true" stamp="1511836736146" textual="true" version="1.0"/>
+</session>
