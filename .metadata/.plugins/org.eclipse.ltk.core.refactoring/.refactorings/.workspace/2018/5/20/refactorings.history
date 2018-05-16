@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;21. Maximum XOR of Two Numbers in an Array&apos; to &apos;421. Maximum XOR of Two Numbers in an Array&apos;&#x0A;- Original element: &apos;21. Maximum XOR of Two Numbers in an Array&apos;&#x0A;- Renamed element: &apos;21. Maximum XOR of Two Numbers in an Array&apos;&#x0A;- Update references to refactored element" description="Rename Java project &apos;21. Maximum XOR of Two Numbers in an Array&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=21. Maximum XOR of Two Numbers in an Array" name="421. Maximum XOR of Two Numbers in an Array" references="true" stamp="1526278398109" version="1.0"/>
+</session>
