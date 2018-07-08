@@ -1,0 +1,57 @@
+package com.yyh;
+
+public class Solution {
+	public static void main(String[] args){
+		Solution s = new Solution();
+		System.out.println(s.multiply("23", "3"));
+	}
+	
+	public String multiply(String num1, String num2) {
+        StringBuilder res = new StringBuilder("0");
+        for (int i = 0; i < num2.length(); i++){
+            StringBuilder cur = mul(num1, num2.charAt(num2.length() - i - 1));
+            for (int j = 0; j < i; j++){
+                cur.append("0");
+            }
+            res = add(res, cur);
+        }
+        return res.toString();
+    }
+    
+    private StringBuilder add(StringBuilder s1, StringBuilder s2){
+        StringBuilder sb = new StringBuilder();
+        s1.reverse();
+        s2.reverse();
+        int ind = 0;
+        int add = 0;
+        while (ind < s1.length() || ind < s2.length()){
+            int a = (ind >= s1.length())? 0: s1.charAt(ind);
+            int b = (ind >= s2.length())? 0: s2.charAt(ind);
+            int cur = a + b + add;
+            sb.append(cur % 10);
+            add = cur / 10;
+            ind++;
+        }
+        if (add > 0) sb.append(add);
+        return sb.reverse();
+    }
+    
+    private StringBuilder mul(String num1, char num2){
+        StringBuilder sb = new StringBuilder();
+        int add = 0;
+        for (int i = num1.length() - 1; i >= 0; i--){
+        	int a = num1.charAt(i) - '0';
+        	int b = num2 - '0';
+            int cur = a * b + add;
+            sb.append(cur % 10);
+            add = cur / 10;
+            System.out.println(a);
+            System.out.println(b);
+        }
+        if (add > 0) sb.append(add);
+        sb.reverse();
+        System.out.println(sb.toString());
+        return sb;
+    }
+    
+}
